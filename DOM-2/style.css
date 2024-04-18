@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.divvv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: rgb(79, 39, 172);
+    /* border-radius: 10px; */
+    color: white;
+}
+
+#register{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    width: 700px;
+    height: 180px;
+    flex-direction: column;
+}
+
+textarea{
+    max-width: 300px;
+    max-height: 80px;
+}
+
+table{
+    margin-top: 20px;
+    padding: 10px;
+    width: 100%;
+    background-color: rgb(160, 160, 185);
+}
