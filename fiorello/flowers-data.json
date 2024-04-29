@@ -1,0 +1,11 @@
+{
+    "flowers": [
+        {"id":"1", "name":"FOXGLOVE FLOWER","type":"flower","img":"https://fiorello.qodeinteractive.com/product/foxglove-flower/"},
+        {"id":"2", "name":"SPRING SNOWFLAKE","type":"flower","img":"https://fiorello.qodeinteractive.com/product/spring-snowflake/"},
+        {"id":"3", "name":"SCARLET SAGE","type":"flower","img":"https://fiorello.qodeinteractive.com/product/scarlet-sage/"},
+        {"id":"4", "name":"WILD ROSES","type":"flower","img":"https://fiorello.qodeinteractive.com/product/wild-roses/"},
+        {"id":"5", "name":"Tulpan","type":"flower","img":"https://imageproxy.wolt.com/venue/64facd5bfb04b7ece5e97018/d782ef76-4e2e-11ee-847c-ca11cacda0c9_tulpan_n2.jpg"},
+        {"id":"6", "name":"Sabina","type":"company","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtSw6ETSCyohdr3mNJcfYSPZPciHVepSkX_y8AMNCPWg&s"},
+        {"id":"7", "name":"Axmad","type":"company","img":"https://upload.wikimedia.org/wikipedia/commons/2/2a/%D0%A0%D0%B0%D0%BC%D0%B7%D0%B0%D0%BD_%D0%9A%D0%B0%D0%B4%D1%8B%D1%80%D0%BE%D0%B2_%2813-03-2023%29.jpg"}
+    ]
+}
